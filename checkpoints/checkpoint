@@ -1,0 +1,2 @@
+model_checkpoint_path: "ssd-0000.ckpt"
+all_model_checkpoint_paths: "ssd-0000.ckpt"
